@@ -1,0 +1,5 @@
+target
+**/target
+scripts/push.sh
+.dfx
+**/.dfx

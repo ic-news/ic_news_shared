@@ -1,0 +1,11 @@
+[package]
+name = "ic_news_shared"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+candid.workspace = true
+ic-cdk.workspace = true
+ic-cdk-macros.workspace = true
+serde.workspace = true
+serde_json.workspace = true
